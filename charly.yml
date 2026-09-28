@@ -1,7 +1,5 @@
-version: 2026.232.0520
 check-base-layer:
     candy:
-        version: 2026.144.1443
         description: |
             Drop /etc/check-base-marker as the first layer of the check-pod stack
             Single-file marker layer — the build-scope smoke target AND the
